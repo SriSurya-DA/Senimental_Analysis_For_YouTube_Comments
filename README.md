@@ -1,5 +1,7 @@
 # YouTube Comments Sentiment Analysis and Visualization
 
+![img](https://github.com/SriSurya-DA/Senimental_Analysis_For_YouTube_Comments/blob/main/comments_analysis_Image.jpeg)
+
 ## Overview
 This project analyzes YouTube comments to derive insights into user sentiments and frequently used emojis. The analysis pipeline involves data cleaning, sentiment polarity computation, and visualization using tools like word clouds and bar charts.
 
